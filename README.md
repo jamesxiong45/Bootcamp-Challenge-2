@@ -38,3 +38,4 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
+[1]edX Boot Camps LLC. Confidential and Proprietary. (2022) ../UCSD-VIRT-FSF-PT-11-2022-U-LOLC-1\02-Advanced-CSS\02-Challenge. https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/UCSD-VIRT-FSF-PT-11-2022-U-LOLC/-/blob/main/02-Advanced-CSS/02-Challenge/README.md
