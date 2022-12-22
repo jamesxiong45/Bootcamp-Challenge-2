@@ -4,7 +4,7 @@
 
 The following is a picture of my deployed Website: 
 
-![My Image](./images/Website.jpg)
+![My Deployed Website](.Bootcamp-Challenge-2/images/Website.jpg)
 
 <a href="https://jamesxiong45.github.io/Bootcamp-Challenge-2/" target="_blank">Click here to be redirected to my deployed Website!</a>
 
